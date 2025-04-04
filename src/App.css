@@ -42,10 +42,3 @@ button:hover {
   background-color: #0056b3;
 }
 
-li {
-  list-style: none;
-  margin: 10px 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
